@@ -1,4 +1,5 @@
 # Node.js
+cinevault-api-service/node_modules/
 node_modules/
 npm-debug.log
 yarn-debug.log
@@ -13,6 +14,7 @@ pnpm-debug.log
 .pnpm-debug.log
 
 # Environment variables
+cinevault-api-service/.env
 .env
 .env.local
 .env.*.local
